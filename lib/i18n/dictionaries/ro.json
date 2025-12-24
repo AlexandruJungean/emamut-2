@@ -1,0 +1,420 @@
+{
+  "common": {
+    "nav": {
+      "home": "Acasă",
+      "about": "Despre Noi",
+      "services": "Servicii",
+      "references": "Referințe",
+      "blog": "Blog",
+      "ebook": "Ebook",
+      "career": "Carieră",
+      "contact": "Contact"
+    },
+    "cta": {
+      "requestQuote": "Cere Ofertă",
+      "learnMore": "Mai multe detalii",
+      "readMore": "Citește mai mult",
+      "submit": "Trimite",
+      "download": "Descarcă",
+      "sendMessage": "Trimite mesajul",
+      "subscribe": "Abonează-te",
+      "viewAll": "Vezi toate"
+    },
+    "services": {
+      "videoSurveillance": "Sisteme supraveghere video",
+      "antiTheft": "Sisteme antiefracție",
+      "dataNetworks": "Rețele date / voce / TV / Wi-Fi",
+      "accessControl": "Control acces / pontaj",
+      "intercom": "Interfoane / videointerfoane",
+      "fireDetection": "Sisteme detecție incendiu"
+    },
+    "footer": {
+      "tagline": "Inovăm pentru a menține siguranța persoanelor juridice cât și persoanelor fizice.",
+      "services": "Servicii",
+      "usefulLinks": "Linkuri utile",
+      "newsletter": "Newsletter",
+      "newsletterText": "Abonează-te la newsletterul Emamut și vei primi pe e-mail toate noutățile.",
+      "namePlaceholder": "Numele tău complet",
+      "emailPlaceholder": "Adresa ta de email",
+      "subscribe": "Mă abonez",
+      "copyright": "Toate drepturile rezervate",
+      "termsConditions": "Termeni și condiții",
+      "privacyPolicy": "Politica de confidențialitate",
+      "cookiePolicy": "Politica cookies"
+    },
+    "contact": {
+      "phone": "Suport clienți",
+      "email": "Informații & Oferte",
+      "address": "Adresa"
+    },
+    "whatsapp": {
+      "tooltip": "Aveți nevoie de ajutor? Chat rapid"
+    }
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "title": "SISTEME SUPRAVEGHERE VIDEO",
+          "subtitle": "Destinații posibile:",
+          "destinations": [
+            "Spații comerciale",
+            "Depozite, hale de producție",
+            "Instituții financiar-bancare",
+            "Spații de birouri",
+            "Hoteluri, instituții de interes public",
+            "Cazinouri și alte spații de desfășurare jocuri de noroc",
+            "Spații rezidențiale (apartamente, vile, cabane, etc)"
+          ],
+          "ctaText": "MAI MULTE DETALII"
+        },
+        {
+          "title": "SISTEME ALARME / ANTIEFRACȚIE",
+          "subtitle": "Soluții tehnice oferite:",
+          "destinations": [
+            "Centrale alarmă, cu cablu sau fără fir",
+            "Detectoare mișcare, vibrații, geam spart, incendiu",
+            "Sirene avertizare, tastaturi, contacte magnetice",
+            "Comunicatoare digitale/vocale, IP, GSM, PSNT"
+          ],
+          "ctaText": "MAI MULTE DETALII"
+        },
+        {
+          "title": "REȚELE DATE / VOCE / TV / WI-FI",
+          "subtitle": "Soluții integrate pentru:",
+          "destinations": [
+            "Cablare structurată pentru date și voce",
+            "Rețele wireless profesionale",
+            "Sisteme TV/cablu",
+            "Infrastructură IT completă"
+          ],
+          "ctaText": "MAI MULTE DETALII"
+        }
+      ]
+    },
+    "services": {
+      "title": "Serviciile Noastre",
+      "items": [
+        {
+          "icon": "home",
+          "title": "Securitate locuință",
+          "description": "Sistemele noastre de camere de acasă au funcții de înaltă rezoluție și monitorizare de la distanță."
+        },
+        {
+          "icon": "camera",
+          "title": "Sisteme camere",
+          "description": "Supravegherea video este una dintre cele mai utilizate modalități de securitate care are o aplicabilitate foarte largă."
+        },
+        {
+          "icon": "bell",
+          "title": "Sisteme alarmă",
+          "description": "Sistemele antiefracție sau de alarmare au o importanță deosebită în protejarea locuinței, biroului și a valorilor tale."
+        },
+        {
+          "icon": "phone",
+          "title": "Sisteme interfoane",
+          "description": "Interfonul sau videointerfonul este sistemul primar de securitatea a imobilului Tău."
+        }
+      ]
+    },
+    "trust": {
+      "title": "Nu-ți lăsa siguranța pe mâinile oricui",
+      "description": "Securitatea reprezintă unul dintre cele mai importante aspecte ale funcționării eficiente a unui business. Pornind de la această premisă, Emamut pune la dispoziție soluții complete de securitate, care acoperă multiple arii vulnerabile. Toate acestea urmăresc un singur obiectiv: asigurarea protecției oamenilor, facilităților și bunurilor.",
+      "ctaText": "Doresc ofertă de preț",
+      "stats": [
+        { "value": 15, "suffix": "+", "label": "Ani experiență" },
+        { "value": 500, "suffix": "+", "label": "Clienți mulțumiți" },
+        { "value": 1000, "suffix": "+", "label": "Proiecte finalizate" },
+        { "value": 24, "suffix": "/7", "label": "Suport tehnic" }
+      ]
+    },
+    "faq": {
+      "title": "Întrebări frecvente",
+      "items": [
+        {
+          "question": "Un sistem de securitate poate fi instalat de oricine?",
+          "answer": "Nu. Sistemele de securitate pot fi instalate doar de firme specializate, pe baza unei licențe eliberate de Inspectoratul General al Poliției Române, și cu avizul prealabil al Serviciului Român de Informații."
+        },
+        {
+          "question": "Sistem de alarmă sau sistem de supraveghere video?",
+          "answer": "Fiecare sistem are avantajele și dezavantajele lui. Sistemul de supraveghere video înregistrează evenimentele, iar sistemul de alarmă avertizează și anunță în caz de pătrundere neautorizată. Cele două sisteme se completează reciproc."
+        },
+        {
+          "question": "Vreau să deschid o afacere. Îmi este de ajuns un sistem de alarmă?",
+          "answer": "Pentru o afacere, recomandăm o combinație între sisteme de supraveghere video și sisteme de alarmă. Aceasta oferă atât monitorizare în timp real, cât și alertare imediată în caz de incident."
+        },
+        {
+          "question": "Am nevoie de avizul poliției pentru sistemele instalate?",
+          "answer": "Da, în funcție de tipul și dimensiunea sistemului instalat. Veți primi proiectul de instalare, instrucțiuni de utilizare, garanția sistemului, factură și codul de instalator."
+        },
+        {
+          "question": "Este important să întreținem sistemele de securitate?",
+          "answer": "Da. Pentru a beneficia maxim de protecția unui sistem, este recomandat și în unele cazuri chiar obligatoriu să fie întreținute și verificate periodic de către personal avizat."
+        },
+        {
+          "question": "Un eveniment a fost surprins de sistemul nostru de supraveghere. Sunt obligat să predau aceste înregistrări persoanelor implicate?",
+          "answer": "Nu. Beneficiarii sistemelor sunt obligați să pună la dispoziția organelor judiciare, la solicitarea scrisă a acestora, a înregistrărilor video în care este surprinsă săvârșirea unor fapte de natură penală."
+        },
+        {
+          "question": "Se poate folosi orice tip de echipament în sistemele de securitate?",
+          "answer": "Nu. Echipamentele utilizate trebuie să fie omologate și certificate conform legislației în vigoare. Noi folosim doar echipamente de la producători recunoscuți."
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "De ce să ne alegi pe noi?",
+      "features": [
+        {
+          "icon": "wrench",
+          "title": "Oferim suport tehnic",
+          "description": "Asigurăm mentenanță în timpul și după depășirea perioadei de garanție, atât pentru sistemele instalate de noi, cât și pentru sistemele instalate de alte firme."
+        },
+        {
+          "icon": "award",
+          "title": "Servicii de calitate",
+          "description": "Oferim servicii de calitate premium, lucrăm cu cele mai moderne produse și tehnologii. Îți oferim garanție, mentenanță și service pentru orice lucrare efectuată."
+        },
+        {
+          "icon": "message",
+          "title": "Consultanță",
+          "description": "Compania noastră propune, prin intermediul propriilor specialiști și a unei echipe existente de colaboratori externi, soluții complete ce includ servicii de consultanță, implementare și suport."
+        }
+      ]
+    },
+    "quote": {
+      "title": "Cere ofertă de preț!",
+      "clientType": "Personal sau Business?",
+      "clientTypeOptions": [
+        { "value": "personal", "label": "Personal" },
+        { "value": "business", "label": "Business" }
+      ],
+      "serviceType": "Tip serviciu",
+      "serviceTypeOptions": [
+        { "value": "supraveghere", "label": "Supraveghere video" },
+        { "value": "antiefractie", "label": "Sisteme antiefracție" },
+        { "value": "retele", "label": "Rețele date" },
+        { "value": "acces", "label": "Control acces" },
+        { "value": "interfoane", "label": "Interfoane" },
+        { "value": "incendiu", "label": "Detecție incendiu" },
+        { "value": "altele", "label": "Altele" }
+      ],
+      "systemSize": "Dimensiune sistem",
+      "systemSizeOptions": [
+        { "value": "mic", "label": "Mic (1-3 zone)" },
+        { "value": "mediu", "label": "Mediu (4-9 zone)" },
+        { "value": "mare", "label": "Mare (9-15 zone)" },
+        { "value": "altele", "label": "Altele" }
+      ],
+      "name": "Nume complet",
+      "email": "Adresa de email",
+      "phone": "Număr de telefon",
+      "county": "Județ",
+      "city": "Localitate",
+      "message": "Mesaj",
+      "messagePlaceholder": "Scrie aici mesajul tău...",
+      "submit": "Trimite cererea",
+      "submitting": "Se trimite...",
+      "success": "Cererea a fost trimisă cu succes! Vă vom contacta în cel mai scurt timp.",
+      "error": "A apărut o eroare. Te rugăm să încerci din nou."
+    },
+    "blog": {
+      "title": "Articole recente",
+      "viewAll": "Vezi toate articolele",
+      "readMore": "CITEȘTE MAI MULT"
+    }
+  },
+  "about": {
+    "title": "DESPRE NOI",
+    "intro": "NOI SUNTEM EXPERȚII SIGURANȚEI DE 15 ANI.",
+    "description1": "Emamut este o afacere privată înființată în 2010. Activitatea noastră principală constă în instalarea și întreținerea sistemelor de securitate (sisteme de alarmă, supraveghere video și sisteme de acces). În plus, instalăm cablaje structurate (rețele de date, voce și sonorizare), rețele de date wireless (Wi-Fi), precum și sisteme de interfonie și videointerfonie (pentru case, apartamente și blocuri) și sisteme de detectare și semnalizare incendiu.",
+    "description2": "Fiecare proiect este analizat separat de către specialiștii noștri. Oferim fiecărui client cea mai potrivită soluție, luând în considerare caracteristicile locației, solicitările beneficiarului și bugetul disponibil. Pentru asigurarea funcționării optime a sistemelor instalate, oferim servicii de mentenanță și service atât în perioada de garanție, cât și post-garanție.",
+    "description3": "Prin profesionalismul și fiabilitatea noastră, câștigăm încrederea clienților și oferim servicii de înaltă calitate la prețuri accesibile.",
+    "stats": "Suntem mândri că în ultimii 15 ani, peste 500 de clienți ne-au ales pe noi.",
+    "values": {
+      "title": "Valorile noastre",
+      "items": [
+        {
+          "title": "Viteză",
+          "description": "Reacționăm rapid și eficient la întrebările și nevoile clienților noștri."
+        },
+        {
+          "title": "Fiabilitate",
+          "description": "Asigurăm funcționarea fiabilă a sistemelor de securitate."
+        },
+        {
+          "title": "Comunicare",
+          "description": "Comunicăm în mod transparent și eficient pentru a înțelege nevoile clienților."
+        },
+        {
+          "title": "Flexibilitate",
+          "description": "Răspundem rapid și eficient la cerințele individuale ale fiecărui client."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "breadcrumb": "Prima pagină",
+    "phone": {
+      "title": "Suport telefonic",
+      "value": "+40 735 777 296"
+    },
+    "email": {
+      "title": "Email",
+      "value": "contact@emamut.ro"
+    },
+    "address": {
+      "title": "Birou",
+      "value": "Str. Horea nr. 26, Salonta, jud. Bihor"
+    },
+    "form": {
+      "title": "Formular de contact",
+      "name": "Nume complet",
+      "email": "Adresa de email",
+      "phone": "Număr de telefon",
+      "message": "Mesajul tău",
+      "messagePlaceholder": "Scrie aici mesajul tău...",
+      "submit": "Trimite mesajul",
+      "submitting": "Se trimite...",
+      "success": "Mesajul a fost trimis cu succes! Vă vom contacta în cel mai scurt timp.",
+      "error": "A apărut o eroare. Te rugăm să încerci din nou."
+    }
+  },
+  "services": {
+    "pageTitle": "Servicii",
+    "intro": "Tehnologia este aliatul nostru pentru siguranța ta. Un sistem integrat și serviciul de alertă SMS activat te țin permanent informat asupra oricăror evenimente de la obiectiv.",
+    "description": "Profesionalismul colegilor noștri ne permite abordarea unor lucrări de proiectare și execuție cu complexitate ridicată, în condiții de calitate superioară, toate soluțiile fiind concepute astfel încât caminul, biroul și afacerea ta să fie protejate și gestionate corect.",
+    "equipment": "Echipamentele folosite de noi, fie că vorbim de monitorizarea video sau de instalare alarmă, se ridică la cele mai înalte standarde internaționale din domeniu. În urma instalării unui astfel de sistem de securitate este facilitată conectarea la dispeceratul nostru pentru o și mai mare siguranță a ta și a bunurilor tale.",
+    "categories": [
+      {
+        "title": "Sisteme de supraveghere video",
+        "subtitle": "HD, analogic și IP",
+        "image": "/images/hero-1.webp",
+        "href": "/servicii/supraveghere-video"
+      },
+      {
+        "title": "Sisteme antiefracție",
+        "subtitle": "Sisteme de alarmă cu și fără fir",
+        "image": "/images/hero-2.webp",
+        "href": "/servicii/sisteme-antiefractie"
+      },
+      {
+        "title": "Rețele date",
+        "subtitle": "Voce / TV / Wi-Fi",
+        "image": "/images/hero-3.webp",
+        "href": "/servicii/retele-date"
+      },
+      {
+        "title": "Control acces",
+        "subtitle": "Carduri, biometrie, pontaj",
+        "image": "/images/modern-office.webp",
+        "href": "/servicii/control-acces"
+      },
+      {
+        "title": "Interfoane",
+        "subtitle": "Audio și video interfoane",
+        "image": "/images/residential-installation.webp",
+        "href": "/servicii/interfoane"
+      },
+      {
+        "title": "Detecție incendiu",
+        "subtitle": "Sisteme certificate",
+        "image": "/images/technical-workshop.webp",
+        "href": "/servicii/detectie-incendiu"
+      }
+    ],
+    "cta": "Detalii",
+    "whyUs": {
+      "title": "De ce să ne alegeți pe noi?",
+      "items": [
+        "Instalarea echipamentelor este realizată de echipe specializate în domeniu.",
+        "Montaj rapid și prețuri avantajoase.",
+        "Garanție, Mentenanță și Service pentru orice lucrare efectuată."
+      ]
+    }
+  },
+  "ebook": {
+    "title": "DESCARCĂ EBOOK GRATUIT!",
+    "subtitle": "3+1 aspecte la care hoții sunt atenți când îți analizează locuința",
+    "description": "Află ce verifică infractorii înainte să acționeze și cum te poți proteja eficient.",
+    "form": {
+      "name": "Numele tău",
+      "email": "Adresa de email",
+      "phone": "Număr de telefon",
+      "submit": "Descarcă acum",
+      "submitting": "Se procesează...",
+      "success": "Ebook-ul a fost trimis pe email!",
+      "error": "A apărut o eroare. Te rugăm să încerci din nou."
+    }
+  },
+  "career": {
+    "title": "Carieră",
+    "subtitle": "Alătură-te echipei Emamut",
+    "description": "Suntem mereu în căutare de colegi talentați și dedicați care doresc să facă parte din echipa noastră.",
+    "openPositions": "Poziții deschise",
+    "noPositions": "Momentan nu avem poziții deschise, dar poți trimite CV-ul tău la contact@emamut.ro",
+    "apply": "Aplică acum",
+    "positions": [
+      {
+        "slug": "tehnician-sisteme-securitate",
+        "title": "Tehnician sisteme de securitate",
+        "type": "Full-time",
+        "location": "Salonta, Bihor",
+        "description": "Căutăm un tehnician experimentat pentru instalarea și mentenanța sistemelor de securitate.",
+        "requirements": [
+          "Experiență minimă 2 ani în domeniu",
+          "Cunoștințe tehnice sisteme CCTV și alarme",
+          "Permis de conducere categoria B",
+          "Disponibilitate pentru deplasări"
+        ],
+        "benefits": [
+          "Salariu competitiv",
+          "Training și certificări",
+          "Mașină de serviciu",
+          "Telefon și laptop"
+        ]
+      },
+      {
+        "slug": "agent-comercial",
+        "title": "Agent comercial",
+        "type": "Full-time",
+        "location": "Salonta, Bihor",
+        "description": "Căutăm un agent comercial pentru dezvoltarea portofoliului de clienți.",
+        "requirements": [
+          "Experiență în vânzări B2B",
+          "Abilități excelente de comunicare",
+          "Permis de conducere categoria B",
+          "Cunoștințe MS Office"
+        ],
+        "benefits": [
+          "Salariu fix + comision",
+          "Training specializat",
+          "Mașină de serviciu",
+          "Telefon mobil"
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Ultimele noutăți din domeniul securității",
+    "search": "Caută articole...",
+    "categories": "Categorii",
+    "allCategories": "Toate",
+    "readMore": "Citește mai mult",
+    "relatedPosts": "Articole similare",
+    "share": "Distribuie",
+    "backToBlog": "Înapoi la blog"
+  },
+  "references": {
+    "title": "Referințe",
+    "subtitle": "Proiecte finalizate",
+    "description": "Iată câteva dintre proiectele noastre finalizate cu succes.",
+    "viewProject": "Vezi proiect"
+  },
+  "legal": {
+    "termsTitle": "Termeni și condiții",
+    "privacyTitle": "Politica de confidențialitate",
+    "cookiesTitle": "Politica cookies"
+  }
+}

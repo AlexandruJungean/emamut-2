@@ -1,0 +1,420 @@
+{
+  "common": {
+    "nav": {
+      "home": "Főoldal",
+      "about": "Rólunk",
+      "services": "Szolgáltatások",
+      "references": "Referenciák",
+      "blog": "Blog",
+      "ebook": "E-könyv",
+      "career": "Karrier",
+      "contact": "Kapcsolat"
+    },
+    "cta": {
+      "requestQuote": "Árajánlat kérés",
+      "learnMore": "Bővebben",
+      "readMore": "Tovább olvasom",
+      "submit": "Küldés",
+      "download": "Letöltés",
+      "sendMessage": "Üzenet küldése",
+      "subscribe": "Feliratkozás",
+      "viewAll": "Összes megtekintése"
+    },
+    "services": {
+      "videoSurveillance": "Videómegfigyelő rendszerek",
+      "antiTheft": "Riasztórendszerek",
+      "dataNetworks": "Adathálózatok / hang / TV / Wi-Fi",
+      "accessControl": "Beléptető rendszer / munkaidő",
+      "intercom": "Kaputelefonok / videokaputelefonok",
+      "fireDetection": "Tűzjelző rendszerek"
+    },
+    "footer": {
+      "tagline": "Innoválunk, hogy biztonságban tartsuk a vállalkozásokat és magánszemélyeket.",
+      "services": "Szolgáltatások",
+      "usefulLinks": "Hasznos linkek",
+      "newsletter": "Hírlevél",
+      "newsletterText": "Iratkozzon fel az Emamut hírlevelére és kapja meg az összes újdonságot e-mailben.",
+      "namePlaceholder": "Teljes neve",
+      "emailPlaceholder": "E-mail címe",
+      "subscribe": "Feliratkozás",
+      "copyright": "Minden jog fenntartva",
+      "termsConditions": "Általános szerződési feltételek",
+      "privacyPolicy": "Adatvédelmi szabályzat",
+      "cookiePolicy": "Cookie szabályzat"
+    },
+    "contact": {
+      "phone": "Ügyfélszolgálat",
+      "email": "Információ és árajánlat",
+      "address": "Cím"
+    },
+    "whatsapp": {
+      "tooltip": "Segítségre van szüksége? Gyors chat"
+    }
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "title": "VIDEÓMEGFIGYELŐ RENDSZEREK",
+          "subtitle": "Lehetséges célpontok:",
+          "destinations": [
+            "Kereskedelmi helységek",
+            "Raktárak, gyártócsarnokok",
+            "Pénzügyi-banki intézmények",
+            "Irodahelységek",
+            "Szállodák, közérdekű intézmények",
+            "Kaszinók és egyéb szerencsejáték-helyszínek",
+            "Lakóterületek (lakások, villák, nyaralók stb.)"
+          ],
+          "ctaText": "TOVÁBBI RÉSZLETEK"
+        },
+        {
+          "title": "RIASZTÓ / BETÖRÉSVÉDELMI RENDSZEREK",
+          "subtitle": "Kínált technikai megoldások:",
+          "destinations": [
+            "Riasztóközpontok, vezetékes vagy vezeték nélküli",
+            "Mozgás-, rezgés-, üvegtörés-, tűzérzékelők",
+            "Figyelmeztető szirénák, billentyűzetek, mágneses érintkezők",
+            "Digitális/hangkommunikátorok, IP, GSM, PSNT"
+          ],
+          "ctaText": "TOVÁBBI RÉSZLETEK"
+        },
+        {
+          "title": "ADATHÁLÓZATOK / HANG / TV / WI-FI",
+          "subtitle": "Integrált megoldások:",
+          "destinations": [
+            "Strukturált kábelezés adat és hang számára",
+            "Professzionális vezeték nélküli hálózatok",
+            "TV/kábel rendszerek",
+            "Teljes IT infrastruktúra"
+          ],
+          "ctaText": "TOVÁBBI RÉSZLETEK"
+        }
+      ]
+    },
+    "services": {
+      "title": "Szolgáltatásaink",
+      "items": [
+        {
+          "icon": "home",
+          "title": "Lakásbiztonság",
+          "description": "Otthoni kamerarendszereink nagy felbontású és távoli megfigyelési funkciókkal rendelkeznek."
+        },
+        {
+          "icon": "camera",
+          "title": "Kamerarendszerek",
+          "description": "A videómegfigyelés az egyik legszélesebb körben alkalmazott biztonsági módszer, széles körű alkalmazhatósággal."
+        },
+        {
+          "icon": "bell",
+          "title": "Riasztórendszerek",
+          "description": "A betörésvédelmi vagy riasztórendszerek különösen fontosak otthona, irodája és értékei védelmében."
+        },
+        {
+          "icon": "phone",
+          "title": "Kaputelefon rendszerek",
+          "description": "A kaputelefon vagy videokaputelefon az Ön ingatlanának elsődleges biztonsági rendszere."
+        }
+      ]
+    },
+    "trust": {
+      "title": "Ne bízza a biztonságát bárkire",
+      "description": "A biztonság az üzleti működés egyik legfontosabb szempontja. Ebből kiindulva az Emamut teljes körű biztonsági megoldásokat kínál, amelyek több sebezhető területet is lefednek. Mindezek egyetlen célt szolgálnak: az emberek, létesítmények és javak védelmét.",
+      "ctaText": "Árajánlatot kérek",
+      "stats": [
+        { "value": 15, "suffix": "+", "label": "Év tapasztalat" },
+        { "value": 500, "suffix": "+", "label": "Elégedett ügyfél" },
+        { "value": 1000, "suffix": "+", "label": "Befejezett projekt" },
+        { "value": 24, "suffix": "/7", "label": "Műszaki támogatás" }
+      ]
+    },
+    "faq": {
+      "title": "Gyakran ismételt kérdések",
+      "items": [
+        {
+          "question": "Bárki telepíthet biztonsági rendszert?",
+          "answer": "Nem. Biztonsági rendszereket csak szakosodott cégek telepíthetnek, a Román Rendőrség Főfelügyelősége által kiadott engedély alapján, a Román Hírszerző Szolgálat előzetes jóváhagyásával."
+        },
+        {
+          "question": "Riasztórendszer vagy videómegfigyelő rendszer?",
+          "answer": "Mindkét rendszernek megvannak az előnyei és hátrányai. A videómegfigyelés rögzíti az eseményeket, míg a riasztórendszer figyelmeztet és riaszt jogosulatlan behatolás esetén. A két rendszer kiegészíti egymást."
+        },
+        {
+          "question": "Vállalkozást szeretnék indítani. Elég egy riasztórendszer?",
+          "answer": "Vállalkozáshoz a videómegfigyelő és riasztórendszerek kombinációját ajánljuk. Ez valós idejű megfigyelést és azonnali riasztást biztosít incidens esetén."
+        },
+        {
+          "question": "Szükségem van rendőrségi jóváhagyásra a telepített rendszerekhez?",
+          "answer": "Igen, a telepített rendszer típusától és méretétől függően. Megkapja a telepítési projektet, használati utasításokat, rendszergaranciát, számlát és telepítői kódot."
+        },
+        {
+          "question": "Fontos a biztonsági rendszerek karbantartása?",
+          "answer": "Igen. A rendszer védelmének teljes kihasználásához ajánlott, sőt néha kötelező a képzett személyzet általi karbantartás és rendszeres ellenőrzés."
+        },
+        {
+          "question": "A megfigyelőrendszerünk rögzített egy eseményt. Kötelező átadnom ezeket a felvételeket az érintetteknek?",
+          "answer": "Nem. A rendszerek kedvezményezettjei kötelesek a bírósági szervek írásbeli kérésére átadni azokat a videofelvételeket, amelyeken bűncselekmény elkövetése látható."
+        },
+        {
+          "question": "Bármilyen típusú berendezés használható biztonsági rendszerekben?",
+          "answer": "Nem. A használt berendezéseknek a hatályos jogszabályoknak megfelelően tanúsítottnak és engedélyezettnek kell lenniük. Mi csak elismert gyártók berendezéseit használjuk."
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "Miért válasszon minket?",
+      "features": [
+        {
+          "icon": "wrench",
+          "title": "Műszaki támogatás",
+          "description": "Karbantartást biztosítunk a garanciális időszak alatt és után is, mind az általunk telepített, mind a más cégek által telepített rendszerekhez."
+        },
+        {
+          "icon": "award",
+          "title": "Minőségi szolgáltatások",
+          "description": "Prémium minőségű szolgáltatásokat nyújtunk, a legmodernebb termékekkel és technológiákkal dolgozunk. Garanciát, karbantartást és szervizt biztosítunk minden elvégzett munkára."
+        },
+        {
+          "icon": "message",
+          "title": "Tanácsadás",
+          "description": "Cégünk saját szakértőin és külső munkatársak meglévő csapatán keresztül teljes körű megoldásokat kínál, beleértve a tanácsadást, megvalósítást és támogatást."
+        }
+      ]
+    },
+    "quote": {
+      "title": "Kérjen árajánlatot!",
+      "clientType": "Magánszemély vagy vállalkozás?",
+      "clientTypeOptions": [
+        { "value": "personal", "label": "Magánszemély" },
+        { "value": "business", "label": "Vállalkozás" }
+      ],
+      "serviceType": "Szolgáltatás típusa",
+      "serviceTypeOptions": [
+        { "value": "supraveghere", "label": "Videómegfigyelés" },
+        { "value": "antiefractie", "label": "Riasztórendszerek" },
+        { "value": "retele", "label": "Adathálózatok" },
+        { "value": "acces", "label": "Beléptető rendszer" },
+        { "value": "interfoane", "label": "Kaputelefonok" },
+        { "value": "incendiu", "label": "Tűzjelzés" },
+        { "value": "altele", "label": "Egyéb" }
+      ],
+      "systemSize": "Rendszer mérete",
+      "systemSizeOptions": [
+        { "value": "mic", "label": "Kicsi (1-3 zóna)" },
+        { "value": "mediu", "label": "Közepes (4-9 zóna)" },
+        { "value": "mare", "label": "Nagy (9-15 zóna)" },
+        { "value": "altele", "label": "Egyéb" }
+      ],
+      "name": "Teljes név",
+      "email": "E-mail cím",
+      "phone": "Telefonszám",
+      "county": "Megye",
+      "city": "Település",
+      "message": "Üzenet",
+      "messagePlaceholder": "Írja ide üzenetét...",
+      "submit": "Kérés küldése",
+      "submitting": "Küldés folyamatban...",
+      "success": "A kérés sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot.",
+      "error": "Hiba történt. Kérjük, próbálja újra."
+    },
+    "blog": {
+      "title": "Legújabb cikkek",
+      "viewAll": "Összes cikk megtekintése",
+      "readMore": "TOVÁBB OLVASOM"
+    }
+  },
+  "about": {
+    "title": "RÓLUNK",
+    "intro": "15 ÉVE A BIZTONSÁG SZAKÉRTŐI VAGYUNK.",
+    "description1": "Az Emamut egy 2010-ben alapított magánvállalkozás. Fő tevékenységünk biztonsági rendszerek (riasztórendszerek, videómegfigyelés és beléptető rendszerek) telepítése és karbantartása. Emellett strukturált kábelezést (adat-, hang- és hangosító hálózatok), vezeték nélküli adathálózatokat (Wi-Fi), valamint kaputelefon és videokaputelefon rendszereket (házak, lakások és tömbházak számára) és tűzjelző rendszereket is telepítünk.",
+    "description2": "Minden projektet szakembereink külön elemeznek. Minden ügyfélnek a legmegfelelőbb megoldást kínáljuk, figyelembe véve a helyszín jellemzőit, a kedvezményezett igényeit és a rendelkezésre álló költségvetést. A telepített rendszerek optimális működésének biztosítása érdekében karbantartási és szerviz szolgáltatásokat nyújtunk a garanciális időszak alatt és után egyaránt.",
+    "description3": "Professzionalizmusunkkal és megbízhatóságunkkal elnyerjük ügyfeleink bizalmát, és magas színvonalú szolgáltatásokat nyújtunk elérhető áron.",
+    "stats": "Büszkék vagyunk arra, hogy az elmúlt 15 évben több mint 500 ügyfél választott minket.",
+    "values": {
+      "title": "Értékeink",
+      "items": [
+        {
+          "title": "Gyorsaság",
+          "description": "Gyorsan és hatékonyan reagálunk ügyfeleink kérdéseire és igényeire."
+        },
+        {
+          "title": "Megbízhatóság",
+          "description": "Biztosítjuk a biztonsági rendszerek megbízható működését."
+        },
+        {
+          "title": "Kommunikáció",
+          "description": "Átláthatóan és hatékonyan kommunikálunk az ügyfelek igényeinek megértése érdekében."
+        },
+        {
+          "title": "Rugalmasság",
+          "description": "Gyorsan és hatékonyan reagálunk minden ügyfél egyedi igényeire."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Kapcsolat",
+    "breadcrumb": "Főoldal",
+    "phone": {
+      "title": "Telefonos támogatás",
+      "value": "+40 735 777 296"
+    },
+    "email": {
+      "title": "E-mail",
+      "value": "contact@emamut.ro"
+    },
+    "address": {
+      "title": "Iroda",
+      "value": "Str. Horea nr. 26, Salonta, Bihar megye"
+    },
+    "form": {
+      "title": "Kapcsolatfelvételi űrlap",
+      "name": "Teljes név",
+      "email": "E-mail cím",
+      "phone": "Telefonszám",
+      "message": "Üzenete",
+      "messagePlaceholder": "Írja ide üzenetét...",
+      "submit": "Üzenet küldése",
+      "submitting": "Küldés folyamatban...",
+      "success": "Üzenet sikeresen elküldve! Hamarosan felvesszük Önnel a kapcsolatot.",
+      "error": "Hiba történt. Kérjük, próbálja újra."
+    }
+  },
+  "services": {
+    "pageTitle": "Szolgáltatások",
+    "intro": "A technológia szövetségesünk az Ön biztonságáért. Az integrált rendszer és az aktivált SMS-riasztás szolgáltatás folyamatosan tájékoztatja Önt a helyszínen történő eseményekről.",
+    "description": "Kollégáink professzionalizmusa lehetővé teszi számunkra a magas komplexitású tervezési és kivitelezési munkák megközelítését, kiváló minőségben, minden megoldást úgy tervezve, hogy otthona, irodája és vállalkozása védett és megfelelően kezelt legyen.",
+    "equipment": "Az általunk használt berendezések, legyen szó videómegfigyelésről vagy riasztótelepítésről, megfelelnek a legmagasabb nemzetközi szabványoknak. Egy ilyen biztonsági rendszer telepítése után lehetővé válik a diszpécserközpontunkhoz való csatlakozás az Ön és javai még nagyobb biztonsága érdekében.",
+    "categories": [
+      {
+        "title": "Videómegfigyelő rendszerek",
+        "subtitle": "HD, analóg és IP",
+        "image": "/images/hero-1.webp",
+        "href": "/servicii/supraveghere-video"
+      },
+      {
+        "title": "Riasztórendszerek",
+        "subtitle": "Vezetékes és vezeték nélküli riasztórendszerek",
+        "image": "/images/hero-2.webp",
+        "href": "/servicii/sisteme-antiefractie"
+      },
+      {
+        "title": "Adathálózatok",
+        "subtitle": "Hang / TV / Wi-Fi",
+        "image": "/images/hero-3.webp",
+        "href": "/servicii/retele-date"
+      },
+      {
+        "title": "Beléptető rendszer",
+        "subtitle": "Kártyák, biometria, munkaidő",
+        "image": "/images/modern-office.webp",
+        "href": "/servicii/control-acces"
+      },
+      {
+        "title": "Kaputelefonok",
+        "subtitle": "Audio és video kaputelefonok",
+        "image": "/images/residential-installation.webp",
+        "href": "/servicii/interfoane"
+      },
+      {
+        "title": "Tűzjelzés",
+        "subtitle": "Tanúsított rendszerek",
+        "image": "/images/technical-workshop.webp",
+        "href": "/servicii/detectie-incendiu"
+      }
+    ],
+    "cta": "Részletek",
+    "whyUs": {
+      "title": "Miért válasszon minket?",
+      "items": [
+        "A berendezések telepítését szakosodott csapatok végzik.",
+        "Gyors telepítés és versenyképes árak.",
+        "Garancia, karbantartás és szerviz minden elvégzett munkára."
+      ]
+    }
+  },
+  "ebook": {
+    "title": "INGYENES E-KÖNYV LETÖLTÉSE!",
+    "subtitle": "3+1 szempont, amire a betörők figyelnek, amikor az otthonát elemzik",
+    "description": "Tudja meg, mit ellenőriznek a bűnözők, mielőtt cselekednek, és hogyan védheti meg magát hatékonyan.",
+    "form": {
+      "name": "Az Ön neve",
+      "email": "E-mail cím",
+      "phone": "Telefonszám",
+      "submit": "Letöltés most",
+      "submitting": "Feldolgozás...",
+      "success": "Az e-könyvet elküldtük e-mailben!",
+      "error": "Hiba történt. Kérjük, próbálja újra."
+    }
+  },
+  "career": {
+    "title": "Karrier",
+    "subtitle": "Csatlakozzon az Emamut csapatához",
+    "description": "Mindig keresünk tehetséges és elkötelezett kollégákat, akik csapatunk részévé szeretnének válni.",
+    "openPositions": "Nyitott pozíciók",
+    "noPositions": "Jelenleg nincsenek nyitott pozícióink, de elküldheti önéletrajzát a contact@emamut.ro címre",
+    "apply": "Jelentkezés most",
+    "positions": [
+      {
+        "slug": "tehnician-sisteme-securitate",
+        "title": "Biztonsági rendszer technikus",
+        "type": "Teljes munkaidő",
+        "location": "Salonta, Bihar",
+        "description": "Tapasztalt technikust keresünk biztonsági rendszerek telepítésére és karbantartására.",
+        "requirements": [
+          "Minimum 2 év tapasztalat a területen",
+          "CCTV és riasztórendszerek műszaki ismerete",
+          "B kategóriás jogosítvány",
+          "Utazási hajlandóság"
+        ],
+        "benefits": [
+          "Versenyképes fizetés",
+          "Képzések és tanúsítványok",
+          "Szolgálati autó",
+          "Telefon és laptop"
+        ]
+      },
+      {
+        "slug": "agent-comercial",
+        "title": "Kereskedelmi ügynök",
+        "type": "Teljes munkaidő",
+        "location": "Salonta, Bihar",
+        "description": "Kereskedelmi ügynököt keresünk az ügyfélportfólió fejlesztésére.",
+        "requirements": [
+          "B2B értékesítési tapasztalat",
+          "Kiváló kommunikációs készségek",
+          "B kategóriás jogosítvány",
+          "MS Office ismeretek"
+        ],
+        "benefits": [
+          "Fix fizetés + jutalék",
+          "Szakmai képzés",
+          "Szolgálati autó",
+          "Mobiltelefon"
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "A legújabb hírek a biztonság területéről",
+    "search": "Cikkek keresése...",
+    "categories": "Kategóriák",
+    "allCategories": "Összes",
+    "readMore": "Tovább olvasom",
+    "relatedPosts": "Kapcsolódó cikkek",
+    "share": "Megosztás",
+    "backToBlog": "Vissza a bloghoz"
+  },
+  "references": {
+    "title": "Referenciák",
+    "subtitle": "Befejezett projektek",
+    "description": "Íme néhány sikeresen befejezett projektünk.",
+    "viewProject": "Projekt megtekintése"
+  },
+  "legal": {
+    "termsTitle": "Általános szerződési feltételek",
+    "privacyTitle": "Adatvédelmi szabályzat",
+    "cookiesTitle": "Cookie szabályzat"
+  }
+}

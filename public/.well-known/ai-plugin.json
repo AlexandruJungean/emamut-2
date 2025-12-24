@@ -1,0 +1,18 @@
+{
+  "schema_version": "v1",
+  "name_for_model": "emamut_security",
+  "name_for_human": "Emamut Security Systems",
+  "description_for_model": "Emamut is a security systems company in Romania providing video surveillance, alarm systems, access control, intercoms, data networks, and fire detection services. Use this to find information about security solutions for homes and businesses in Romania, particularly in Bihor, Arad, Timis, and Cluj counties.",
+  "description_for_human": "Professional security systems installation and maintenance in Romania since 2010.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://emamut.ro/api/openapi.json"
+  },
+  "logo_url": "https://emamut.ro/logo.webp",
+  "contact_email": "contact@emamut.ro",
+  "legal_info_url": "https://emamut.ro/ro/termeni-conditii"
+}
+

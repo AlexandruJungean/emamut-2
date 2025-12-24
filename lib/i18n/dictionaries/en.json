@@ -1,0 +1,420 @@
+{
+  "common": {
+    "nav": {
+      "home": "Home",
+      "about": "About Us",
+      "services": "Services",
+      "references": "References",
+      "blog": "Blog",
+      "ebook": "Ebook",
+      "career": "Career",
+      "contact": "Contact"
+    },
+    "cta": {
+      "requestQuote": "Request Quote",
+      "learnMore": "Learn More",
+      "readMore": "Read More",
+      "submit": "Submit",
+      "download": "Download",
+      "sendMessage": "Send Message",
+      "subscribe": "Subscribe",
+      "viewAll": "View All"
+    },
+    "services": {
+      "videoSurveillance": "Video Surveillance Systems",
+      "antiTheft": "Anti-theft Systems",
+      "dataNetworks": "Data Networks / Voice / TV / Wi-Fi",
+      "accessControl": "Access Control / Time Tracking",
+      "intercom": "Intercoms / Video Intercoms",
+      "fireDetection": "Fire Detection Systems"
+    },
+    "footer": {
+      "tagline": "We innovate to keep both businesses and individuals safe.",
+      "services": "Services",
+      "usefulLinks": "Useful Links",
+      "newsletter": "Newsletter",
+      "newsletterText": "Subscribe to Emamut newsletter and receive all updates via email.",
+      "namePlaceholder": "Your full name",
+      "emailPlaceholder": "Your email address",
+      "subscribe": "Subscribe",
+      "copyright": "All rights reserved",
+      "termsConditions": "Terms & Conditions",
+      "privacyPolicy": "Privacy Policy",
+      "cookiePolicy": "Cookie Policy"
+    },
+    "contact": {
+      "phone": "Customer Support",
+      "email": "Information & Quotes",
+      "address": "Address"
+    },
+    "whatsapp": {
+      "tooltip": "Need help? Quick chat"
+    }
+  },
+  "home": {
+    "hero": {
+      "slides": [
+        {
+          "title": "VIDEO SURVEILLANCE SYSTEMS",
+          "subtitle": "Possible destinations:",
+          "destinations": [
+            "Commercial spaces",
+            "Warehouses, production halls",
+            "Financial-banking institutions",
+            "Office spaces",
+            "Hotels, public interest institutions",
+            "Casinos and other gambling venues",
+            "Residential spaces (apartments, villas, cabins, etc.)"
+          ],
+          "ctaText": "MORE DETAILS"
+        },
+        {
+          "title": "ALARM / ANTI-THEFT SYSTEMS",
+          "subtitle": "Technical solutions offered:",
+          "destinations": [
+            "Alarm panels, wired or wireless",
+            "Motion, vibration, glass break, fire detectors",
+            "Warning sirens, keypads, magnetic contacts",
+            "Digital/voice communicators, IP, GSM, PSNT"
+          ],
+          "ctaText": "MORE DETAILS"
+        },
+        {
+          "title": "DATA NETWORKS / VOICE / TV / WI-FI",
+          "subtitle": "Integrated solutions for:",
+          "destinations": [
+            "Structured cabling for data and voice",
+            "Professional wireless networks",
+            "TV/cable systems",
+            "Complete IT infrastructure"
+          ],
+          "ctaText": "MORE DETAILS"
+        }
+      ]
+    },
+    "services": {
+      "title": "Our Services",
+      "items": [
+        {
+          "icon": "home",
+          "title": "Home Security",
+          "description": "Our home camera systems have high resolution and remote monitoring features."
+        },
+        {
+          "icon": "camera",
+          "title": "Camera Systems",
+          "description": "Video surveillance is one of the most widely used security methods with very broad applicability."
+        },
+        {
+          "icon": "bell",
+          "title": "Alarm Systems",
+          "description": "Anti-theft or alarm systems are particularly important in protecting your home, office and valuables."
+        },
+        {
+          "icon": "phone",
+          "title": "Intercom Systems",
+          "description": "The intercom or video intercom is the primary security system for your property."
+        }
+      ]
+    },
+    "trust": {
+      "title": "Don't leave your safety in just anyone's hands",
+      "description": "Security is one of the most important aspects of efficient business operations. Starting from this premise, Emamut provides complete security solutions covering multiple vulnerable areas. All of these pursue a single objective: ensuring the protection of people, facilities and assets.",
+      "ctaText": "Request a price quote",
+      "stats": [
+        { "value": 15, "suffix": "+", "label": "Years of experience" },
+        { "value": 500, "suffix": "+", "label": "Satisfied clients" },
+        { "value": 1000, "suffix": "+", "label": "Completed projects" },
+        { "value": 24, "suffix": "/7", "label": "Technical support" }
+      ]
+    },
+    "faq": {
+      "title": "Frequently Asked Questions",
+      "items": [
+        {
+          "question": "Can anyone install a security system?",
+          "answer": "No. Security systems can only be installed by specialized companies, based on a license issued by the General Inspectorate of the Romanian Police, with prior approval from the Romanian Intelligence Service."
+        },
+        {
+          "question": "Alarm system or video surveillance system?",
+          "answer": "Each system has its advantages and disadvantages. Video surveillance records events, while alarm systems warn and alert in case of unauthorized entry. The two systems complement each other."
+        },
+        {
+          "question": "I want to start a business. Is an alarm system enough?",
+          "answer": "For a business, we recommend a combination of video surveillance and alarm systems. This provides both real-time monitoring and immediate alerting in case of an incident."
+        },
+        {
+          "question": "Do I need police approval for installed systems?",
+          "answer": "Yes, depending on the type and size of the installed system. You will receive the installation project, user instructions, system warranty, invoice and installer code."
+        },
+        {
+          "question": "Is it important to maintain security systems?",
+          "answer": "Yes. To benefit fully from system protection, it is recommended and sometimes mandatory to have them maintained and periodically checked by qualified personnel."
+        },
+        {
+          "question": "An event was captured by our surveillance system. Am I obligated to hand over these recordings to those involved?",
+          "answer": "No. System beneficiaries are obligated to provide to judicial authorities, at their written request, video recordings that capture the commission of criminal offenses."
+        },
+        {
+          "question": "Can any type of equipment be used in security systems?",
+          "answer": "No. Equipment used must be approved and certified according to current legislation. We only use equipment from recognized manufacturers."
+        }
+      ]
+    },
+    "whyUs": {
+      "title": "Why choose us?",
+      "features": [
+        {
+          "icon": "wrench",
+          "title": "Technical Support",
+          "description": "We provide maintenance during and after the warranty period, both for systems installed by us and for systems installed by other companies."
+        },
+        {
+          "icon": "award",
+          "title": "Quality Services",
+          "description": "We offer premium quality services, working with the most modern products and technologies. We offer warranty, maintenance and service for any work performed."
+        },
+        {
+          "icon": "message",
+          "title": "Consulting",
+          "description": "Our company offers, through its own specialists and an existing team of external collaborators, complete solutions including consulting, implementation and support services."
+        }
+      ]
+    },
+    "quote": {
+      "title": "Request a price quote!",
+      "clientType": "Personal or Business?",
+      "clientTypeOptions": [
+        { "value": "personal", "label": "Personal" },
+        { "value": "business", "label": "Business" }
+      ],
+      "serviceType": "Service type",
+      "serviceTypeOptions": [
+        { "value": "supraveghere", "label": "Video surveillance" },
+        { "value": "antiefractie", "label": "Anti-theft systems" },
+        { "value": "retele", "label": "Data networks" },
+        { "value": "acces", "label": "Access control" },
+        { "value": "interfoane", "label": "Intercoms" },
+        { "value": "incendiu", "label": "Fire detection" },
+        { "value": "altele", "label": "Other" }
+      ],
+      "systemSize": "System size",
+      "systemSizeOptions": [
+        { "value": "mic", "label": "Small (1-3 zones)" },
+        { "value": "mediu", "label": "Medium (4-9 zones)" },
+        { "value": "mare", "label": "Large (9-15 zones)" },
+        { "value": "altele", "label": "Other" }
+      ],
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "county": "County",
+      "city": "City",
+      "message": "Message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Submit request",
+      "submitting": "Submitting...",
+      "success": "Request sent successfully! We will contact you as soon as possible.",
+      "error": "An error occurred. Please try again."
+    },
+    "blog": {
+      "title": "Recent Articles",
+      "viewAll": "View all articles",
+      "readMore": "READ MORE"
+    }
+  },
+  "about": {
+    "title": "ABOUT US",
+    "intro": "WE ARE THE SECURITY EXPERTS FOR 15 YEARS.",
+    "description1": "Emamut is a private business founded in 2010. Our main activity consists of installing and maintaining security systems (alarm systems, video surveillance and access systems). Additionally, we install structured cabling (data, voice and sound networks), wireless data networks (Wi-Fi), as well as intercom and video intercom systems (for houses, apartments and apartment buildings) and fire detection and signaling systems.",
+    "description2": "Each project is analyzed separately by our specialists. We offer each client the most suitable solution, taking into account the location's characteristics, the beneficiary's requests and the available budget. To ensure optimal operation of installed systems, we offer maintenance and service both during and after the warranty period.",
+    "description3": "Through our professionalism and reliability, we earn our clients' trust and provide high quality services at affordable prices.",
+    "stats": "We are proud that in the last 15 years, over 500 clients have chosen us.",
+    "values": {
+      "title": "Our Values",
+      "items": [
+        {
+          "title": "Speed",
+          "description": "We respond quickly and efficiently to our customers' questions and needs."
+        },
+        {
+          "title": "Reliability",
+          "description": "We ensure reliable operation of security systems."
+        },
+        {
+          "title": "Communication",
+          "description": "We communicate transparently and efficiently to understand customer needs."
+        },
+        {
+          "title": "Flexibility",
+          "description": "We respond quickly and efficiently to each client's individual requirements."
+        }
+      ]
+    }
+  },
+  "contact": {
+    "title": "Contact",
+    "breadcrumb": "Home",
+    "phone": {
+      "title": "Phone Support",
+      "value": "+40 735 777 296"
+    },
+    "email": {
+      "title": "Email",
+      "value": "contact@emamut.ro"
+    },
+    "address": {
+      "title": "Office",
+      "value": "Str. Horea nr. 26, Salonta, Bihor County"
+    },
+    "form": {
+      "title": "Contact Form",
+      "name": "Full name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "message": "Your message",
+      "messagePlaceholder": "Write your message here...",
+      "submit": "Send message",
+      "submitting": "Sending...",
+      "success": "Message sent successfully! We will contact you as soon as possible.",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "services": {
+    "pageTitle": "Services",
+    "intro": "Technology is our ally for your safety. An integrated system and the activated SMS alert service keep you permanently informed about any events at the location.",
+    "description": "The professionalism of our colleagues allows us to approach design and execution work with high complexity, in superior quality conditions, all solutions being designed so that your home, office and business are protected and correctly managed.",
+    "equipment": "The equipment we use, whether we're talking about video monitoring or alarm installation, meets the highest international standards in the field. Following the installation of such a security system, connection to our dispatch center is facilitated for even greater safety of you and your assets.",
+    "categories": [
+      {
+        "title": "Video Surveillance Systems",
+        "subtitle": "HD, analog and IP",
+        "image": "/images/hero-1.webp",
+        "href": "/servicii/supraveghere-video"
+      },
+      {
+        "title": "Anti-theft Systems",
+        "subtitle": "Wired and wireless alarm systems",
+        "image": "/images/hero-2.webp",
+        "href": "/servicii/sisteme-antiefractie"
+      },
+      {
+        "title": "Data Networks",
+        "subtitle": "Voice / TV / Wi-Fi",
+        "image": "/images/hero-3.webp",
+        "href": "/servicii/retele-date"
+      },
+      {
+        "title": "Access Control",
+        "subtitle": "Cards, biometrics, time tracking",
+        "image": "/images/modern-office.webp",
+        "href": "/servicii/control-acces"
+      },
+      {
+        "title": "Intercoms",
+        "subtitle": "Audio and video intercoms",
+        "image": "/images/residential-installation.webp",
+        "href": "/servicii/interfoane"
+      },
+      {
+        "title": "Fire Detection",
+        "subtitle": "Certified systems",
+        "image": "/images/technical-workshop.webp",
+        "href": "/servicii/detectie-incendiu"
+      }
+    ],
+    "cta": "Details",
+    "whyUs": {
+      "title": "Why choose us?",
+      "items": [
+        "Equipment installation is carried out by specialized teams.",
+        "Quick installation and competitive prices.",
+        "Warranty, Maintenance and Service for any work performed."
+      ]
+    }
+  },
+  "ebook": {
+    "title": "DOWNLOAD FREE EBOOK!",
+    "subtitle": "3+1 aspects thieves pay attention to when analyzing your home",
+    "description": "Find out what criminals check before they act and how you can protect yourself effectively.",
+    "form": {
+      "name": "Your name",
+      "email": "Email address",
+      "phone": "Phone number",
+      "submit": "Download now",
+      "submitting": "Processing...",
+      "success": "The ebook has been sent to your email!",
+      "error": "An error occurred. Please try again."
+    }
+  },
+  "career": {
+    "title": "Career",
+    "subtitle": "Join the Emamut team",
+    "description": "We are always looking for talented and dedicated colleagues who want to be part of our team.",
+    "openPositions": "Open Positions",
+    "noPositions": "We currently have no open positions, but you can send your CV to contact@emamut.ro",
+    "apply": "Apply now",
+    "positions": [
+      {
+        "slug": "tehnician-sisteme-securitate",
+        "title": "Security Systems Technician",
+        "type": "Full-time",
+        "location": "Salonta, Bihor",
+        "description": "We are looking for an experienced technician for installing and maintaining security systems.",
+        "requirements": [
+          "Minimum 2 years experience in the field",
+          "Technical knowledge of CCTV and alarm systems",
+          "Category B driving license",
+          "Availability for travel"
+        ],
+        "benefits": [
+          "Competitive salary",
+          "Training and certifications",
+          "Company car",
+          "Phone and laptop"
+        ]
+      },
+      {
+        "slug": "agent-comercial",
+        "title": "Sales Agent",
+        "type": "Full-time",
+        "location": "Salonta, Bihor",
+        "description": "We are looking for a sales agent to develop the client portfolio.",
+        "requirements": [
+          "B2B sales experience",
+          "Excellent communication skills",
+          "Category B driving license",
+          "MS Office knowledge"
+        ],
+        "benefits": [
+          "Fixed salary + commission",
+          "Specialized training",
+          "Company car",
+          "Mobile phone"
+        ]
+      }
+    ]
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Latest news from the security field",
+    "search": "Search articles...",
+    "categories": "Categories",
+    "allCategories": "All",
+    "readMore": "Read more",
+    "relatedPosts": "Related articles",
+    "share": "Share",
+    "backToBlog": "Back to blog"
+  },
+  "references": {
+    "title": "References",
+    "subtitle": "Completed Projects",
+    "description": "Here are some of our successfully completed projects.",
+    "viewProject": "View project"
+  },
+  "legal": {
+    "termsTitle": "Terms & Conditions",
+    "privacyTitle": "Privacy Policy",
+    "cookiesTitle": "Cookie Policy"
+  }
+}
