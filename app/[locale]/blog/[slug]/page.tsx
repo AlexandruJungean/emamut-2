@@ -4,7 +4,7 @@ import Link from 'next/link'
 import { notFound } from 'next/navigation'
 import { type Locale } from '@/lib/i18n/config'
 import { getDictionary } from '@/lib/i18n/getDictionary'
-import { Button, Card } from '@/components/ui'
+import { Card } from '@/components/ui'
 import { ArrowLeft, Calendar, Share2, ChevronRight } from 'lucide-react'
 
 interface BlogPostPageProps {
@@ -208,13 +208,12 @@ export default async function BlogPostPage({ params }: BlogPostPageProps) {
                 </nav>
 
                 <div className="mt-6 pt-6 border-t border-border">
-                  <Button
-                    variant="primary"
-                    className="w-full"
-                    onClick={() => window.location.href = `/${locale}/contact`}
+                  <Link
+                    href={`/${locale}/contact`}
+                    className="inline-flex items-center justify-center gap-2 w-full font-semibold rounded-full transition-all duration-300 ease-out bg-primary text-white hover:bg-primary-dark hover:-translate-y-0.5 hover:shadow-lg active:translate-y-0 px-6 py-3 text-base"
                   >
                     Cere ofertă
-                  </Button>
+                  </Link>
                 </div>
               </Card>
             </div>
